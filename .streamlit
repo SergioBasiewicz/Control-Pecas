@@ -1,0 +1,6 @@
+Control-Pecas/
+├── app.py
+├── requirements.txt
+├── .gitignore
+└── .streamlit/
+    └── secrets.toml
